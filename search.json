@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "posts/ncaa-basketball-huskers-mens/index.html",
+    "href": "posts/ncaa-basketball-huskers-mens/index.html",
+    "title": "Does Nebraska Basketball live and die by the 3?",
+    "section": "",
+    "text": "Code\n#|message: false\nlibrary(tidyverse)\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.6\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.1     ✔ tibble    3.3.1\n✔ lubridate 1.9.4     ✔ tidyr     1.3.2\n✔ purrr     1.2.1     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\nNebraska depends on the 3pt shot way too much"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello! My name is Trey. Here is some interesting stuff about me and my work."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "sportsblog",
+    "section": "",
+    "text": "Does Nebraska Basketball live and die by the 3?\n\n\n\nncaa\n\nbasketball\n\nhuskers\n\n\n\n\n\n\n\n\n\nApr 10, 2026\n\n\nTrey Gibbs\n\n\n\n\n\nNo matching items"
+  }
+]
